@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-18 17:59-0400\n"
-"PO-Revision-Date: 2020-12-04 03:56\n"
+"PO-Revision-Date: 2020-12-07 23:56\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -969,76 +969,76 @@ msgstr "Laporan keseimbangan posisi hanya tersedia untuk turnamen Parlemen Inggr
 
 #: draw/templates/position_balance_round1.html:6
 msgid "Position balance reports aren't computed for the first round of a tournament."
-msgstr ""
+msgstr "Laporan keseimbangan posisi tidak dihitung untuk ronde pertama dari sebuah turnamen."
 
 #: draw/views.py:68 draw/views.py:483
 msgid "No debates in this round"
-msgstr ""
+msgstr "Tidak ada debat dalam ronde ini"
 
 #: draw/views.py:76
 #, python-format
 msgid "Draw for %(round)s"
-msgstr ""
+msgstr "Pengundian untuk %(round)s"
 
 #: draw/views.py:78
 msgid "Draws for Current Rounds"
-msgstr ""
+msgstr "Pengundian untuk Ronde Ini"
 
 #: draw/views.py:82
 #, python-format
 msgid "debates start at %(time)s (in %(time_zone)s)"
-msgstr ""
+msgstr "debat dimulai pada %(time)s (zona waktu %(time_zone)s)"
 
 #: draw/views.py:86
 #, python-format
 msgid "start times in time zone: %(time_zone)s"
-msgstr ""
+msgstr "waktu mulai pada zona waktu: %(time_zone)s"
 
 #: draw/views.py:124
 #, python-format
 msgid "debate starts at %(time)s"
 msgid_plural "debates start at %(time)s"
-msgstr[0] ""
+msgstr[0] "debat dimulai pada %(time)s"
 
 #: draw/views.py:171
 msgid "The draw for this round hasn't been released."
-msgstr ""
+msgstr "Pengundian untuk ronde ini belum dirilis."
 
 #: draw/views.py:224
 #, python-format
 msgid "All Debates for All Rounds of %(tournament)s"
-msgstr ""
+msgstr "Seluruh Debat pada Semua Ronde dari %(tournament)s"
 
 #: draw/views.py:382
 msgid "Adjudicator Assignments"
-msgstr ""
+msgstr "Penugasan Juri"
 
 #: draw/views.py:404
 msgid "Position"
-msgstr ""
+msgstr "Posisi"
 
 #: draw/views.py:424
 msgid "Team Pairings"
-msgstr ""
+msgstr "Pemasangan Tim"
 
 #: draw/views.py:447
 msgid "No Draw"
-msgstr ""
+msgstr "Tidak ada Pengundian"
 
 #: draw/views.py:449
 msgid "Draft Draw"
-msgstr ""
+msgstr "Pengundian Draf"
 
 #. Translators: e.g. "Affirmative: Break rank"
 #: draw/views.py:541
 #, python-format
 msgid "%(side)s: Break rank"
-msgstr ""
+msgstr "%(side)s: Ranking break"
 
 #. Translators: "BR" stands for "Break rank"
 #: draw/views.py:546
 msgid "BR"
-msgstr ""
+msgstr "RB"
 
 #: draw/views.py:571
 msgid "Draw with Details"
